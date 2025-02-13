@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#word-display {
+    font-size: 24px;
+    letter-spacing: 5px;
+    margin: 20px 0;
+}
+
+#letter-input {
+    font-size: 16px;
+    padding: 5px;
+}
+
+button {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
